@@ -23,7 +23,7 @@ twitter_username: mattarneil
 github_username:  matt-arneil
 show_downloads: false
 google_analytics: UA-118290531-1
-show_excerpts: false
+show_excerpts: true
 
 # Build settings
 markdown: kramdown
