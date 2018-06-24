@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-This is the portfolio and blog for Matt Arneil.
+Matt Arneil is a developer...Stave Studios... unity... 
