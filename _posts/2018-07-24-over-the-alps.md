@@ -2,7 +2,6 @@
 layout: post
 title:  "Over The Alps"
 categories: Games
-date: 2018
 ---
 
 ![Over The Alps Logo]({{ site.url }}/assets/OTA_Logo_Fill_600px.png)
