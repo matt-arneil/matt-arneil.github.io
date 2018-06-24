@@ -4,7 +4,7 @@ title:  "Over The Alps"
 categories: Games
 ---
 
-![Over The Alps Logo]({{site.url}}/assets/img/OTA_Logo_Fill_600px.png)
+![Over The Alps Logo]({{site.url}}/assets/img/OTA_Logo_Fill_600px.png?resize=300%2C300)
 
 [Over The Alps][ota-web] is a 2D narrative game developed by Stave Studios, which is comprised of myself, Sam Partridge, Josh Callaghan, and Cash Decuir. You can find more information on the [Over The Alps website][ota-web] and [Twitter][ota-twitter]
 
