@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "VR Demo"
+title:  "Munduruku"
 categories: Games
 ---
 

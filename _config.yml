@@ -23,7 +23,7 @@ twitter_username: mattarneil
 github_username:  matt-arneil
 show_downloads: false
 google_analytics: UA-118290531-1
-show_excerpts: true
+show_excerpts: false
 
 # Build settings
 markdown: kramdown
@@ -31,6 +31,8 @@ theme: minima
 plugins:
   - jekyll-feed
 
+minima:
+  date_format: "%Y"
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
