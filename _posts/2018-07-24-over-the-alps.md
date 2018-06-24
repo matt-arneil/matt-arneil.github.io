@@ -6,7 +6,7 @@ categories: Games
 
 ![Over The Alps Logo]({{ site.url }}/assets/OTA_Logo_Fill_600px.png)
 
-[Over The Alps][ota-web] is a 2D narrative game developed by Stave Studios, which is comprised of myself, Sam Partridge, Josh Callaghan, and Cash Decuir. You can find more information on the Over The Alps [website][ota-web] and [Twitter][ota-twitter]
+[Over The Alps][ota-web] is a 2D narrative game developed by Stave Studios, which is comprised of myself, Sam Partridge, Josh Callaghan, and Cash Decuir. You can find more information on the [Over The Alps website][ota-web] and [Twitter][ota-twitter]
 
 ![Over The Alps train]({{ site.url }}/assets/ota2.gif)
 
