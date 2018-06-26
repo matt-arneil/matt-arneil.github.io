@@ -11,7 +11,7 @@ categories: Games
 
 <a href="{{site.url}}/games/2018/07/24/over-the-alps.html"><img src="{{site.url}}/assets/img/otaScreenshot2.png" alt="Over The Alps 2" width="800px"/></a>
 
-<video width="800" controls>
+<video width="740" controls>
   <source src="{{site.url}}/assets/video/Over The Alps Gameplay Trailer.mp4" type="video/mp4">
 </video>
 
