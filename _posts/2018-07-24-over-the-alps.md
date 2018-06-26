@@ -12,10 +12,15 @@ categories: Games
   <source src="{{site.url}}/assets/video/Over The Alps Gameplay Trailer.mp4" type="video/mp4">
 </video>
 
+
+<p>
 <video autoplay loop muted>
   <source src="{{site.url}}/assets/video/ota2.mp4" type="video/mp4">
 </video>
-<br>
+</p>
+
+<p>
 <video autoplay loop muted>
   <source src="{{site.url}}/assets/video/ota4.mp4" type="video/mp4">
 </video>
+</p>
