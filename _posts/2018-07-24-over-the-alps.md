@@ -11,6 +11,11 @@ categories: Games
 
 <a href="{{site.url}}/games/2018/07/24/over-the-alps.html"><img src="{{site.url}}/assets/img/otaScreenshot2.png" alt="Over The Alps 2" width="800px"/></a>
 
+<video width="800" controls>
+  <source src="{{site.url}}/assets/video/Over The Alps Gameplay Trailer.mp4" type="video/mp4">
+</video>
+
+
 <!-- ![Over The Alps train]({{site.url}}/assets/img/ota2.gif) -->
 <a href="{{site.url}}/games/2018/07/24/over-the-alps.html"><img src="{{site.url}}/assets/img/ota2.gif" alt="Over The Alps train" width="800px"/></a>
 
