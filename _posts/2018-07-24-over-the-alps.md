@@ -15,13 +15,13 @@ categories: Games
 </p>
 
 <p>
-<video autoplay loop defaultMuted>
+<video controls autoplay loop muted playsinline>
   <source src="{{site.url}}/assets/video/ota2.mp4" type="video/mp4">
 </video>
 </p>
 
 <p>
-<video autoplay loop defaultMuted>
+<video controls autoplay loop muted playsinline>
   <source src="{{site.url}}/assets/video/ota4.mp4" type="video/mp4">
 </video>
 </p>
