@@ -16,12 +16,12 @@ categories: Games
 
 <br>
 
-<video controls autoplay loop muted playsinline>
+<video autoplay loop muted playsinline>
   <source src="{{site.url}}/assets/video/ota2.mp4" type="video/mp4">
 </video>
 
 <br>
 
-<video controls autoplay loop muted playsinline>
+<video autoplay loop muted playsinline>
   <source src="{{site.url}}/assets/video/ota4.mp4" type="video/mp4">
 </video>
