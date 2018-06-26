@@ -8,14 +8,14 @@ categories: Games
 
 <a href="https://overthealpsgame.com/" target="blank">Over The Alps</a> is a 2D narrative game developed by Stave Studios, which is comprised of myself (lead developer), Sam Partridge, Josh Callaghan, and Cash Decuir. You can find more information on the <a href="https://overthealpsgame.com/" target="blank">Over The Alps website</a> and <a href="https://twitter.com/overthealpsgame" target="blank">Twitter</a>
 
-<video width="740" controls>
+<video controls>
   <source src="{{site.url}}/assets/video/Over The Alps Gameplay Trailer.mp4" type="video/mp4">
 </video>
 
-<video width="740" autoplay loop muted>
+<video autoplay loop muted>
   <source src="{{site.url}}/assets/video/ota2.mp4" type="video/mp4">
 </video>
 
-<video width="740" autoplay loop muted>
+<video autoplay loop muted>
   <source src="{{site.url}}/assets/video/ota4.mp4" type="video/mp4">
 </video>
