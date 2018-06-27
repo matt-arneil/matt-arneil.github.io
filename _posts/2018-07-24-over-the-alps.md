@@ -14,7 +14,7 @@ categories: Games
 
 <a href="https://overthealpsgame.com/" target="blank">Over The Alps</a> is a 2D narrative game developed by Stave Studios, which is comprised of myself (lead developer), Sam Partridge, Josh Callaghan, and Cash Decuir. You can find more information on the <a href="https://overthealpsgame.com/" target="blank">Over The Alps website</a> and <a href="https://twitter.com/overthealpsgame" target="blank">Twitter</a>. 
 
-I contributed to most aspects of this game, with some of my main responsibilities being the back end of this game, which controls what text, images and audio appears in each of the game's locations. This is used with data from <a href="https://www.inklestudios.com/ink/" target="blank"> Inkle Ink</a> to control the flow of the story in each location. I also worked on the game's UI animations, background parallaxing, and scene transition animations. As well as this I implemented the game's audio system and selected and edited audio clips.
+I contributed to most aspects of this game, with some of my main responsibilities being the back end, which controls what text, images and audio appears in each of the game's locations. This is used with data from <a href="https://www.inklestudios.com/ink/" target="blank"> Inkle Ink</a> to control the flow of the story in each location. I also worked on the game's UI animations, background parallaxing, and scene transition animations. As well as this I implemented the game's audio system and selected and edited audio clips.
 
 <br>
 
