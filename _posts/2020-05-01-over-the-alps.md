@@ -17,12 +17,8 @@ I was the lead developer on this project, my role included managing the code bas
 
 <br>
 
-<video autoplay loop muted playsinline>
-  <source src="{{site.url}}/assets/video/Observatory.gif" type="video/gif">
-</video>
+<img src="{{site.url}}/assets/video/Observatory.gif" alt="Over the alps Observatory"/>
 
 <br>
 
-<video autoplay loop muted playsinline>
-  <source src="{{site.url}}/assets/video/trainstation.gif" type="video/gif">
-</video>
+<img src="{{site.url}}/assets/video/trainstation.gif" alt="Over the alps Train Station"/>
