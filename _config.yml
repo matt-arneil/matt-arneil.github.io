@@ -22,7 +22,7 @@ url: "https://matt-arneil.github.io" # the base hostname & protocol for your sit
 twitter_username: mattarneil
 #github_username:  matt-arneil
 show_downloads: false
-google_analytics: UA-118290531-1
+#google_analytics: 
 show_excerpts: true
 
 # Build settings
