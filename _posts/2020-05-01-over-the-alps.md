@@ -11,7 +11,7 @@ I was the lead developer on this project, my role included managing the code bas
 
 <br>
 
-<video controls poster="{{site.url}}/assets/img/otaVideoStart.jpg">
+<video controls poster="{{site.url}}/assets/img/otaVideoStart.webp" width="740">
   <source src="{{site.url}}/assets/video/KOTM_Out_Now_Trailer.mp4" type="video/mp4">
 </video>
 
