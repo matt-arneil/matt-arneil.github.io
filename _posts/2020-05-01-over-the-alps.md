@@ -24,5 +24,5 @@ I was the lead developer on this project, my role included managing the code bas
 <br>
 
 <video controls autoplay loop width="740">
-  <source src="{{site.url}}/assets/video/trainstation.gif" type="video/webm">
+  <source src="{{site.url}}/assets/video/trainstation.webm" type="video/webm">
 </video>
