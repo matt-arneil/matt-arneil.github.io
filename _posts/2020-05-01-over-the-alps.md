@@ -17,10 +17,12 @@ I was the lead developer on this project, my role included managing the code bas
 
 <br>
 
-<img src="{{site.url}}/assets/video/Observatory.webm" alt="Over the alps Observatory" width="740" height="416"/>
+<video controls autoplay loop width="740">
+  <source src="{{site.url}}/assets/video/Observatory.webm" type="video/webm">
+</video>
 
 <br>
 
-<video loop>
-  <source src="{{site.url}}/assets/video/trainstation.gif" type="video/mp4">
+<video controls autoplay loop width="740">
+  <source src="{{site.url}}/assets/video/trainstation.gif" type="video/webm">
 </video>
