@@ -17,8 +17,10 @@ I was the lead developer on this project, my role included managing the code bas
 
 <br>
 
-<img src="{{site.url}}/assets/video/Observatory.gif" alt="Over the alps Observatory"/>
+<img src="{{site.url}}/assets/video/Observatory.webm" alt="Over the alps Observatory" width="740" height="416"/>
 
 <br>
 
-<img src="{{site.url}}/assets/video/trainstation.gif" alt="Over the alps Train Station"/>
+<video loop>
+  <source src="{{site.url}}/assets/video/trainstation.gif" type="video/mp4">
+</video>
