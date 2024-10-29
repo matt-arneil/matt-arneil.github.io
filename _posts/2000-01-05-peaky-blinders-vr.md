@@ -3,7 +3,7 @@ layout: post
 title:  "Peaky Blinders: The King's Ransom Development Experience"
 categories: Games
 ---
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TT_tV18z2fU?si=pqRY80vUA3OkKjT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<iframe width="740" src="https://www.youtube-nocookie.com/embed/TT_tV18z2fU?si=pqRY80vUA3OkKjT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [https://www.peakyblindersthekingsransom.com](https://www.peakyblindersthekingsransom.com)
 
