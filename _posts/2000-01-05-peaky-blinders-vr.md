@@ -3,10 +3,9 @@ layout: post
 title:  "Peaky Blinders: The King's Ransom Development Experience"
 categories: Games
 ---
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TT_tV18z2fU?si=pqRY80vUA3OkKjT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 [https://www.peakyblindersthekingsransom.com](https://www.peakyblindersthekingsransom.com)
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/TT_tV18z2fU?si=pqRY80vUA3OkKjT2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 Working on *Peaky Blinders: The King’s Ransom* as a Senior Developer was an experience that pushed my development skills in new ways. As part of the core team, I played a major role in implementing the game’s features, often in a high pressure, fast paced environment. My goal was always to help bring the gritty, immersive world of 1920s Birmingham to life, and that required a lot of teamwork, creativity, and quick problem solving.
 
