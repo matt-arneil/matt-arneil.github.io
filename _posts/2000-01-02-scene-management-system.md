@@ -4,7 +4,7 @@ title:  "A Visual Scene Management System"
 categories: Games
 ---
 
-![Example Scene Graph Screenshot]({{site.url}}//assets/img/sceneManagementScreenshot.jpeg)
+[![Example Scene Graph Screenshot]({{site.url}}//assets/img/sceneManagementScreenshot.jpeg)]({{site.url}}/games/2000/01/02/scene-management-system.html)
 
 ### Visual Scene Management
 The goal with this system was to speed up iteration times and be able to see the flow of a game at a glance. It requires more effort up front compared to a basic scene management script, but once made it's incredibly easy to use.
