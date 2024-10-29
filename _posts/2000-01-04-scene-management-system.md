@@ -13,6 +13,8 @@ A node contains a list of scenes that should be active when this node becomes ac
 
 Scenes are grouped in memory zones, which basically means that any scenes not listed in the currently active node, but in the active node's memory group are loaded but set inactive. This allows for pre-loading groups of scenes that are known to link together with little loading in between. Setting a memory group for a node is just an enum dropdown.
 
+Graphs can also contain sub graphs so different parts of a project can be split up to help with readability.
+
 ### Project Navigation
 A nice bonus for navigating the Unity project itself is that if you double click a node, it will load all of its listed scenes. Much quicker and easier than remembering which scenes need to be opened together, or navigating the folder structure for each scene. 
 
